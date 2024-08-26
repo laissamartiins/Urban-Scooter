@@ -3,7 +3,7 @@
 #### Bem-vindo ao repositório de Garantia de Qualidade (QA) do Urban Scooter, um aplicativo de aluguel de scooters. 
 *Este projeto foi desenvolvido durante o curso de QA da TripleTen.* 
 
-#### Objetivo
+#### Objetivo 
 O repositório contém diversos recursos para auxiliar nos testes e garantir a qualidade do Urban Scooter.
 ----
 #### Metodologias
