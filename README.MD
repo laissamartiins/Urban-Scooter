@@ -4,7 +4,7 @@
 *Este projeto foi desenvolvido durante o curso de QA da TripleTen.* 
 
 #### Objetivo 
-###### O repositório contém diversos recursos para auxiliar nos testes e garantir a qualidade do Urban Scooter.
+##### O repositório contém diversos recursos para auxiliar nos testes e garantir a qualidade do Urban Scooter.
 ----
 #### Metodologias
 
