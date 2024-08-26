@@ -23,7 +23,7 @@
 - FIGMA
 ---- 
 #### Resultados 
-Esse projeto foi realizado prezando pela qualidade do app, construindo os casos de teste do zero e executando os testes necessários, tanto de interface quanto de API, utilizando diversas ferramentas e reportando os relatórios de bug.  
+##### Esse projeto foi realizado prezando pela qualidade do app, construindo os casos de teste do zero e executando os testes necessários, tanto de interface quanto de API, utilizando diversas ferramentas e reportando os relatórios de bug.  
 ----
 ### Contato 
 📧 Email: laissa.martiins@gmail.com
